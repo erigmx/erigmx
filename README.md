@@ -26,9 +26,7 @@ I'm a software engineering student based in Salvador, Bahia, currently focused o
 
 | Project | Description |
 |---|---|
-| **[dio-trilha-java](https://github.com/erigmx/dio-trilha-java)** | Exercises and projects from the DIO Java track |
-| **[dio-trilha-santander](https://github.com/erigmx/dio-trilha-santander)** | Java bootcamp track (Santander x DIO) |
-| **[API_Estudantes](https://github.com/erigmx/API_Estudantes)** | Java API for student management |
+| **[solent-agendamentos](https://github.com/erigmx/solent-agendamentos)** | Scheduling system |
 | **[WorkNet](https://github.com/erigmx/WorkNet)** | Functional pages for the WorkNet website |
 
 ---
@@ -37,9 +35,11 @@ I'm a software engineering student based in Salvador, Bahia, currently focused o
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
 </p>
 
 ---
