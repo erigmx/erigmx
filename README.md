@@ -1,7 +1,7 @@
-<h1 align="center">Olá, eu sou a Eri 👋</h1>
+<h1 align="center">Hi, I'm Eri 👋</h1>
 
 <p align="center">
-Analista de Agendamentos na área de saúde | Estudante de Java | Salvador, BA
+Software Engineering Student | Java Developer | Salvador, Brazil
 </p>
 
 <p align="center">
@@ -12,27 +12,24 @@ Analista de Agendamentos na área de saúde | Estudante de Java | Salvador, BA
 
 ---
 
-### 🩺 Sobre mim
+### 💻 About me
 
-Atuo com **agendamento cirúrgico e gestão de agenda hospitalar**, atualmente no Blanc Hospital (antes, no Hospital Jorge Valente). No dia a dia, lido com processos, prazos e organização de grandes volumes de informação — o que me trouxe naturalmente para a programação, onde estou desenvolvendo minhas habilidades em **Java**.
+I'm a software engineering student based in Salvador, Bahia, currently focused on building solid foundations in **Java** — data structures, OOP, and hands-on academic projects. I enjoy turning theory into working code, whether it's a data structure built from scratch or a small automation tool.
 
-Gosto de projetos que conectam esses dois mundos: automação de processos, estruturas de dados aplicadas a problemas reais (como sistemas de gestão de pacientes) e ferramentas que economizam tempo.
-
-- 💼 Agendamentos e gestão de calendário na área de saúde
-- ☕ Estudando Java (estruturas de dados, POO, projetos acadêmicos)
-- 🔧 Construindo um sistema de gerenciamento de links de afiliados (Shopee, Amazon, Mercado Livre)
-- 📍 Salvador, Bahia
+- ☕ Studying Java (data structures, OOP, coursework projects)
+- 🔧 Building a link-management system for affiliate marketing (Shopee, Amazon, Mercado Livre)
+- 📍 Salvador, Bahia, Brazil
 
 ---
 
-### 🚀 Projetos em destaque
+### 🚀 Featured projects
 
-| Projeto | Descrição |
+| Project | Description |
 |---|---|
-| **[dio-trilha-java](https://github.com/erigmx/dio-trilha-java)** | Exercícios e projetos da trilha Java (DIO) |
-| **[dio-trilha-santander](https://github.com/erigmx/dio-trilha-santander)** | Trilha Java do bootcamp Santander (DIO) |
-| **[API_Estudantes](https://github.com/erigmx/API_Estudantes)** | API em Java para gestão de estudantes |
-| **[WorkNet](https://github.com/erigmx/WorkNet)** | Páginas funcionais do site WorkNet |
+| **[dio-trilha-java](https://github.com/erigmx/dio-trilha-java)** | Exercises and projects from the DIO Java track |
+| **[dio-trilha-santander](https://github.com/erigmx/dio-trilha-santander)** | Java bootcamp track (Santander x DIO) |
+| **[API_Estudantes](https://github.com/erigmx/API_Estudantes)** | Java API for student management |
+| **[WorkNet](https://github.com/erigmx/WorkNet)** | Functional pages for the WorkNet website |
 
 ---
 
@@ -42,8 +39,9 @@ Gosto de projetos que conectam esses dois mundos: automação de processos, estr
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  
 </p>
 
 ---
 
-<p align="center"><i>Sempre aprendendo, um commit de cada vez 🌱</i></p>
+<p align="center"><i>Always learning, one commit at a time 🌱</i></p>
