@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Eri 👋</h1>
+<h1 align="center">Hi, I'm Eri </h1>
 
 <p align="center">
 Software Engineering Student | Java Developer | Salvador, Brazil
@@ -14,11 +14,11 @@ Software Engineering Student | Java Developer | Salvador, Brazil
 
 ### 💻 About me
 
-I'm a software engineering student based in Salvador, Bahia, currently focused on building solid foundations in **Java** — data structures, OOP, and hands-on academic projects. I enjoy turning theory into working code, whether it's a data structure built from scratch or a small automation tool.
+I'm a Software Engineering student passionate about building a strong foundation in Java, data structures, and hands-on academic projects. I enjoy turning problems into solutions through code, whether it's implementing data structures from scratch or developing small automation tools.
 
-- ☕ Studying Java (data structures, OOP, coursework projects)
-- 🔧 Building a link-management system for affiliate marketing (Shopee, Amazon, Mercado Livre)
-- 📍 Salvador, Bahia, Brazil
+- Studying Java (data structures, OOP, coursework projects)
+- Studying Data Structures
+- Building a link-management system for affiliate marketing (Shopee, Amazon, Mercado Livre)
 
 ---
 
@@ -44,4 +44,4 @@ I'm a software engineering student based in Salvador, Bahia, currently focused o
 
 ---
 
-<p align="center"><i>Always learning, one commit at a time 🌱</i></p>
+<p align="center"><i>First, solve the problem. Then, write the code.</i></p>
